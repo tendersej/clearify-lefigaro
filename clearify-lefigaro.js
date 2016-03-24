@@ -1,0 +1,1 @@
+javascript:var clearify = function(){document.getElementsByClassName('fig-article-body')[0].style.textShadow = 'None';document.getElementsByClassName('fig-article-body')[0].style.color = 'black';var pop = document.querySelector('.fig-article-body a');pop.parentNode.removeChild(pop);};clearify();
